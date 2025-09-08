@@ -4,7 +4,8 @@ rm 파일명: 파일 삭제
 history: 해당 쉘에서 썼던 명령어 다 나옴
 
 깃명령어
-git branch -m main: 
+git branch -m main: 브랜치이름을 메인으로 바꾸는 명령어 
+git checkout 브랜치이름: 브랜치로 이동하는 명령어
 git remote add origin git 주소
 git push -u origin main
 git push
