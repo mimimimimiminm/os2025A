@@ -1,0 +1,14 @@
+리눅스 명령어
+echo '출력할 내용' >> 파일명
+rm 파일명: 파일 삭제
+history: 해당 쉘에서 썼던 명령어 다 나옴
+
+깃명령어
+git branch -m main: 
+git remote add origin git 주소
+git push -u origin main
+git push
+git remote -v
+git remote remove origin
+git clone git 주소
+git log —oneline : 로그 간단히 봄
